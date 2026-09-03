@@ -22,13 +22,6 @@
 
 ![SFML](https://img.shields.io/badge/SFML-8CC63F?style=for-the-badge&logo=sfml&logoColor=white)
 
-═══════════════════════════════════════════════════════════════════════════════
-
-## Моя статистика работы:
-
-![Статистика Daniil-buxtar](https://github-readme-stats.vercel.app/api?username=Daniil-buxtar&show_icons=true&theme=tokyonight)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-buxtar&layout=compact&theme=tokyonight)
 
 ═══════════════════════════════════════════════════════════════════════════════
 
