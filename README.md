@@ -24,6 +24,7 @@
 почта: dedbuxtar@gmail.com, fa_r_2006@mail.ru
 телеграмм: @Ded_Buxtar
 
+![Змейка](https://Daniil-buxtar.github.io/Daniil-buxtar/github-contribution-grid-snake-dark.svg)
 ═══════════════════════════════════════════════════════════════════════════════
 
 ![meme](Images/meme2.gif)
