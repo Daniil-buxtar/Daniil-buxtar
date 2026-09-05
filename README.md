@@ -21,8 +21,12 @@
 
 ## Мои контакты:
 
-почта: dedbuxtar@gmail.com, fa_r_2006@mail.ru
-телеграмм: @Ded_Buxtar
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedbuxtar@gmail.com)
+[![Email](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:fa_r_2006@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ded_Buxtar)
+
+═══════════════════════════════════════════════════════════════════════════════
+## Моя активность:
 
 ![Змейка](https://Daniil-buxtar.github.io/Daniil-buxtar/github-contribution-grid-snake-dark.svg)
 ═══════════════════════════════════════════════════════════════════════════════
